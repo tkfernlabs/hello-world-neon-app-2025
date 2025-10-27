@@ -17,11 +17,16 @@
 - Neon Project ID: fragrant-snow-64023458
 
 ## Frontend Tasks
-- [ ] Create React frontend
-- [ ] Connect frontend to backend API
-- [ ] Test frontend locally
-- [ ] Expose frontend port externally
+- [x] Create React frontend
+- [x] Connect frontend to backend API
+- [x] Test frontend locally
+- [x] Expose frontend port externally
+- [ ] Test end-to-end with external URLs
 - [ ] Push frontend code to GitHub
+
+## Frontend Information
+- Frontend URL: https://frontend-morphvm-j9mt3es5.http.cloud.morph.so
+- Backend URL: https://backend-morphvm-j9mt3es5.http.cloud.morph.so
 
 ## Final Tasks
 - [ ] Test end-to-end with external URLs
