@@ -21,15 +21,18 @@
 - [x] Connect frontend to backend API
 - [x] Test frontend locally
 - [x] Expose frontend port externally
-- [ ] Test end-to-end with external URLs
-- [ ] Push frontend code to GitHub
+- [x] Test end-to-end with external URLs
+- [x] Push frontend code to GitHub
 
 ## Frontend Information
 - Frontend URL: https://frontend-morphvm-j9mt3es5.http.cloud.morph.so
 - Backend URL: https://backend-morphvm-j9mt3es5.http.cloud.morph.so
 
 ## Final Tasks
-- [ ] Test end-to-end with external URLs
+- [x] Test end-to-end with external URLs
+- [ ] Review ISSUES.md file
+- [ ] Address any issues found
 - [ ] Register all artefacts
 - [ ] Final verification
+- [ ] Final GitHub push
 
